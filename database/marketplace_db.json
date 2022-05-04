@@ -1,0 +1,53 @@
+{
+    "users": {
+        "b4da16a1-b23f-42c8-aff0-371539fe1553": {
+            "name": "John Doe",
+            "email": "john_doe@gmail.com",
+            "register_date": "2022-04-13 20:44"
+        },
+        "42e1976f-e1ba-4a29-a83d-4e797e2c4b30": {
+            "name": "Tudor Stanescu",
+            "email": "tudorstb@yahoo.com",
+            "register_date": "22-04-17 20:40"
+        },
+        "232d94df-cffb-46b4-b63a-1c745b2748de": {
+            "name": "aaa",
+            "email": "danteante@gmail.com",
+            "register_date": "22-04-18 18:06"
+        }
+    },
+    "products": {
+        "f5406791-3fca-4985-9e1e-3d951d49b6fd": {
+            "product_name": "apple",
+            "category": "fruit",
+            "price": 2.0
+        },
+        "7993f09a-3689-4a2d-b1cd-4ab61a0218fc": {
+            "product_name": "soap",
+            "category": "cleaning",
+            "price": 44.0
+        },
+        "71b6e86a-39cb-4804-a880-f26532d58b9b": {
+            "product_name": "lapte",
+            "category": "lactate",
+            "price": 23.0
+        }
+    },
+    "orders": {
+        "4856048a-7e83-49f9-a039-b8800ce87b95": {
+            "user_id": "42e1976f-e1ba-4a29-a83d-4e797e2c4b30",
+            "product_id": "7993f09a-3689-4a2d-b1cd-4ab61a0218fc",
+            "register_date": "22-04-21 19:19"
+        },
+        "100acf1c-010d-4db1-9c9d-a58461588faa": {
+            "user_id": "232d94df-cffb-46b4-b63a-1c745b2748de",
+            "product_id": "7993f09a-3689-4a2d-b1cd-4ab61a0218fc",
+            "register_date": "2022-04-21 19:21"
+        },
+        "f5e9e1eb-fb46-41cb-8eb4-e5a5a14fb64c": {
+            "user_id": "b4da16a1-b23f-42c8-aff0-371539fe1553",
+            "product_id": "f5406791-3fca-4985-9e1e-3d951d49b6fd",
+            "register_date": "2022-04-26 17:07"
+        }
+    }
+}
